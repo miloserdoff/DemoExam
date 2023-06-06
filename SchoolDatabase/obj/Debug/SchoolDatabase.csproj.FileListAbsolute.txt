@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SchoolDatabase\SchoolDatabase\bin\Debug\SchoolDatabase.exe.config
+C:\Users\User\source\repos\SchoolDatabase\SchoolDatabase\bin\Debug\SchoolDatabase.exe
+C:\Users\User\source\repos\SchoolDatabase\SchoolDatabase\bin\Debug\SchoolDatabase.pdb
+C:\Users\User\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.Properties.Resources.resources
+C:\Users\User\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.exe
+C:\Users\User\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.pdb
+C:\Users\User\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.LoginForm.resources
+C:\Users\User\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.MainForms.RegistrationForm.resources
+C:\Users\User\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.MainForms.MainMenuForm.resources
+C:\Users\User\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.MainForms.TeacherDataBaseForm.resources
